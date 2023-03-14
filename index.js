@@ -59,7 +59,7 @@ function makeSound(key){
         break;
 
       case "p":
-        var goblin = new Audio('sounds/Goblin Ho Ha.wav');
+        var goblin = new Audio('sounds/Goblin Ho Ha.mp3');
         goblin.play();
         break;
 
