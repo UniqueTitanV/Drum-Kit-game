@@ -79,3 +79,22 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+/* Copy paste */
+.bottom-container{
+  padding: 5px 0px 5px;
+}
+
+a{
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+  margin: 30px 10px;
+  text-decoration: none;
+}
+
+a:hover{ 
+  color: #ffffff;
+}
+.copyright-text{
+  color: white;
+}
